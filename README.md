@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TacticalNeko.
+- 👀 I’m interested in gaming and learning new things.
+- 🌱 I’m currently learning to be a full-stack software engineer on Codecademy.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me dylantolley04@gmail.com
