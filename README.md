@@ -1,8 +1,8 @@
 # Hi, I'm Jasmine 👋
 
 Computing & Electronic Engineering student at the Open University.
-I build physics simulations, pathfinding tools, and games —
-and I write about how they work.
+I am slightly obsessed with how computers work and enjoy spending my time creating things that interest me.
+I also love deep-diving into questions I have about the universe.
 
 ---
 
@@ -16,9 +16,10 @@ and I write about how they work.
 
 ## Stack
 
-**Proficient** · Python · C# · Unity · PyQt6 · HTML/CSS · Blender · Lua  
-**Learning** · JavaScript · SQL · Java  
-**Tools** · Git · Visual Studio · Affinity Designer · DaVinci Resolve
+**Languages** · Python · C# · PyQt6 · HTML/CSS · Lua
+**Tools** · Unity · Visual Studio · Blender · Git · Affinity Designer · DaVinci Resolve 
+**Libraries** · PyQt6
+**Back log** · JavaScript · SQL · Java · PHP
 
 ---
 
