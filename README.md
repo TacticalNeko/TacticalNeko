@@ -8,26 +8,29 @@ I also love deep-diving into questions I have about the universe.
 
 ## What I'm building
 
-- 🔵 **Pathwise** — pathfinding algorithm visualiser (Python + PyQt6)
-- 🟢 **Murmur** — Boids flocking simulation (Unity + C#) · coming soon
-- 🌐 **[jasminepolymath.dev](#)** · coming soon
+🔵 **Pathwise** — pathfinding algorithm visualiser (Python + PyQt6)<br>
+🟢 **Murmur** — Boids flocking simulation (Unity + C#) · coming soon<br>
+🌐 **[jasminepolymath.dev](#)** · coming soon<br>
 
 ---
 
 ## Stack
 
-**Languages** · Python · C# · PyQt6 · HTML/CSS · Lua
-**Tools** · Unity · Visual Studio · Blender · Git · Affinity Designer · DaVinci Resolve 
-**Libraries** · PyQt6
-**Back log** · JavaScript · SQL · Java · PHP
+**Languages:** Python · C# · PyQt6 · HTML/CSS · Lua<br>
+
+**Tools:** Unity · Visual Studio · Blender · Git · Affinity Designer · DaVinci Resolve<br>
+
+**Libraries:** PyQt6<br>
+
+**Backlog:** JavaScript · SQL · Java · PHP<br>
 
 ---
 
 ## Currently
 
-- 📚 Studying BSc Computing with Electronic Engineering (Open University)
-- 🔨 Building Pathwise — ships in 14 days
-- ✍️ Writing about algorithms and computer architecture
+📚 Studying BSc Computing with Electronic Engineering (Open University)<br>
+🔨 Building Pathwise — ships in 14 days<br>
+✍️ Writing about algorithms and computer architecture<br>
 
 ---
 
